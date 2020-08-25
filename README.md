@@ -1,2 +1,3 @@
-# faceRecognitionBrain
-I'm continuing to develop my skills with React, nodeJS, ExpressJS and Databases in this "small" full stack application which uses the clarifai face recognition API. 
+<h2>Still in progress 🔨 </h2>
+
+A full stack face recognition web application in which the user can create a profile, upload an image and with the help of the clarifai API the faces on the picture will be recognized.
